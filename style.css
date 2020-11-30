@@ -1,0 +1,54 @@
+span.cafe{
+    color: red;
+    text-decoration: none;
+}
+
+span.llamar{
+    color: red;
+    text-decoration: none;
+}
+
+span.lacarta{
+    
+text-decoration: underline;
+
+}
+
+section.cafecentrado{
+    text-align: center;
+}
+
+section.contactoderecha{
+
+    text-align: right;
+}
+p.cafeindex{
+    font-size: 200%;
+}
+
+p.cartaindex{
+    font-size: 200%;
+}
+
+p.contactoindex{
+    font-size: 200%;
+    
+}
+
+h1{
+    text-align: center;
+
+}
+div.cartatamaño{
+
+   font-size: 200%;
+}
+div.cafetamaño{
+
+    font-size: 200%;
+ }
+ 
+body{
+    background-color: sandybrown;
+    
+}
