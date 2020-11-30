@@ -17,6 +17,10 @@ text-decoration: underline;
 section.cafecentrado{
     text-align: center;
 }
+section.contactocentrado{
+    text-align: center;
+    font-size: 200%;
+}
 
 section.contactoderecha{
 
@@ -51,4 +55,9 @@ div.cafetamaño{
 body{
     background-color: sandybrown;
     
+}
+
+p.fotofinal{
+
+    text-align: center;
 }
